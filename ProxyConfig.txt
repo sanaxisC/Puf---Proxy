@@ -10,7 +10,7 @@ ProxyNews1|`8[4/10/2025] `9Happy `2Animal Protection Day! `#<3
 ProxyNews2|`8[23/09/2025] `9You Can Watch `2Vocimera's `9Latest Live With Typing `2/vocimera
 ProxyNews3|`8[19/09/2025] `9Lastest Commands Added In Update v1.3 `2 /cbox`9, `2/owned
 
-VocimeraLink|https://www.youtube.com/watch?v=I0XWn0nkyro
+VocimeraLink|https://www.youtube.com/watch?v=6dxJDiWeG0Q
 MegriLink|https://www.youtube.com/watch?v=atDyUvCNIpY
 TurabLink|https://www.youtube.com/watch?v=XyUMrx3pyQQ&t=159s
 
