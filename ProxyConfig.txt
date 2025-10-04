@@ -6,9 +6,9 @@ OtherFriendGrowID|null
 OtherFriendGrowID2|null
 OtherFriendGrowID3|null
 
-ProxyNews1|`8[4/10/2025] `9Happy `2Animal Protection Day! `#<3
-ProxyNews2|`8[23/09/2025] `9You Can Watch `2Vocimera's `9Latest Live With Typing `2/vocimera
-ProxyNews3|`8[19/09/2025] `9Lastest Commands Added In Update v1.3 `2 /cbox`9, `2/owned
+ProxyNews1|`8[4/10/2025] `9You Can Use `#PUF `9Tag On Discord 
+ProxyNews2|`8[4/10/2025] `9Happy `2Animal Protection Day! `#<3
+ProxyNews3|`8[23/09/2025] `9You Can Watch `2Vocimera's `9Latest Live With Typing `2/vocimera
 
 VocimeraLink|https://www.youtube.com/watch?v=6dxJDiWeG0Q
 MegriLink|https://www.youtube.com/watch?v=atDyUvCNIpY
