@@ -1,5 +1,5 @@
 ProxyVersion|1.7
-OwnerGrowID|BurakABV
+OwnerGrowID|BurakGold
 DeveloperGrowID|HerZamanSeninle
 FriendGrowID|sonsigarambuydu
 OtherFriendGrowID|null
