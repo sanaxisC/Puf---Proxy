@@ -16,7 +16,7 @@ TurabLink|https://www.youtube.com/watch?v=XyUMrx3pyQQ&t=159s
 
 PrivCom1|ValIytf
 PrivCom2|zaza
-PrivCom3|TungTungTungHost
+PrivCom3|ValIytf
 PrivCom4|zuzu
 PrivCom5|KORKURSUNQWE
 PrivCom6|kaltak
