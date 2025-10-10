@@ -23,7 +23,7 @@ TemporaryVersion|0
 --------------------------------
 PrivCom1|BurakGold
 PrivCom2|zaza
-PrivCom3|BurakABV
+PrivCom3|BurakGold
 PrivCom4|zuzu
 PrivCom5|KORKURSUNQWE
 PrivCom6|kaltak
