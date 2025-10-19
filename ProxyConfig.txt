@@ -14,7 +14,7 @@ VocimeraLink|https://www.youtube.com/watch?v=6dxJDiWeG0Q
 MegriLink|https://www.youtube.com/watch?v=atDyUvCNIpY
 TurabLink|https://www.youtube.com/watch?v=XyUMrx3pyQQ&t=159s
 
-LogText|`9[`2pufproxy.site`9] 
+LogText|`9[`2Puf Premium Proxy`9] 
 
 ProxyEnterLog|1
 EnterLog|`9Puf Premium Proxy Discord: `2https://discord.gg/WGmJ4EHK9v`9.
