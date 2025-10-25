@@ -16,7 +16,7 @@ TurabLink|https://www.youtube.com/watch?v=XyUMrx3pyQQ&t=159s
 
 LogText|`9[`2Puf Premium Proxy`9] 
 
-ProxyEnterLog|1
+ProxyEnterLog|0
 EnterLog|`9Puf Premium Proxy Discord: `2https://discord.gg/WGmJ4EHK9v`9.
 
 TemporaryVersion|0
