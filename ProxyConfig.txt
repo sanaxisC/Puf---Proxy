@@ -19,7 +19,7 @@ LogText|`9[`^PUF`9]
 ProxyEnterLog|0
 EnterLog|`9Puf Premium Proxy Discord: `2https://discord.gg/WGmJ4EHK9v`9.
 
-TemporaryVersion|1
+TemporaryVersion|0
 
 
 --------------------------------
